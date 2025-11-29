@@ -28,7 +28,7 @@
 .canvas-placeholder {
   width: 100%;
   max-width: 900px;
-  aspect-ratio: 1200 / 630;
+  aspect-ratio: 1 / 1;
   background: white;
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-lg);
